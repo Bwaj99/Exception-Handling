@@ -1,1 +1,1 @@
-# Exception-Handling
+This C++ project consists of template functions for finding the minimum index, performing selection sort on a vector, and retrieving an element at a specified index. The program also generates random character vectors and allows users to input indices to retrieve corresponding characters. Additionally, it sorts an integer vector and verifies the sorting results.
